@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/analytix-ui",
+  "packageVersion": "1.0.1",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/analytix-ui",
+  "usageRepository": "https://github.com/x12i-sdk/analytix-ui",
+  "sourceRepository": "https://github.com/x12i/analytix",
+  "sourceCommit": "cf2ed708652df6f853af877340acc385d17c76f2",
+  "sourcePackageDirectory": "packages/analytix-ui",
+  "example": {
+    "title": "Render metric and table widgets from an analytic result fixture",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:54:32.340658+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "67eb628af7a8443e44cc13092ce38462fbd29e00c4ad75ea87a747152d01a53d",
+    "manifestSha256": "be67065da4135dd7cb3cc8ffe9b38006ebfee321033e9a982c8b025171bed372"
+  },
+  "validationFiles": {
+    "src/index.mjs": "67eb628af7a8443e44cc13092ce38462fbd29e00c4ad75ea87a747152d01a53d"
+  }
+}
